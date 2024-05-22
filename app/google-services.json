@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1071543364903",
+    "project_id": "peliculasejemplo-c747d",
+    "storage_bucket": "peliculasejemplo-c747d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071543364903:android:e8f80b1d03763e1a928d02",
+        "android_client_info": {
+          "package_name": "mx.unam.fi.ejemplofirebasemovie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTaG7_3-8xpLC_UacAxyepYBlvJ5JyJFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
